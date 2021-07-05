@@ -1,0 +1,22 @@
+{
+  "name": "openguessr",
+  "version": "1.0.0",
+  "description": "A free and open source GeoGuessr-inspired game to play with friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPixelized/openguessr.git"
+  },
+  "keywords": [
+    "geoguessr"
+  ],
+  "author": "Ischa Abraham",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/MrPixelized/openguessr/issues"
+  },
+  "homepage": "https://github.com/MrPixelized/openguessr#readme"
+}
